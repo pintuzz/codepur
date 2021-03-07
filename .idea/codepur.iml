@@ -3,10 +3,13 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/trtdof/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/trtdof/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/trtdof/build" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Android API 26 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="Dart SDK" level="project" />
+    <orderEntry type="library" exported="" name="Dart Packages" level="project" />
   </component>
 </module>
